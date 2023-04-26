@@ -1,0 +1,903 @@
+@media (min-width: 1440px){
+    .tap {
+        background: #F1F1F1;
+        max-width: 1440px
+    }
+    
+    .borders {
+        display: flex;
+        flex-direction: row; 
+    }
+
+    .loopJumys {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .item-magnifier {
+        display: flex;
+        width: 18.68px;
+        height: 22px;
+        margin-right: 10px;
+        margin-left: 80px;
+        margin-top: 20px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+
+    .jumysTap {
+        display: flex;
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .threeButtons {
+        display: flex; 
+        flex-direction: row; 
+        margin-left: 720px;
+    }
+
+    .list-item {
+        display: flex;
+        font-family: 'Inter';
+        list-style-type: none;
+        margin-right: 40px;
+        margin-top: 2px;
+        align-items: center;
+        text-align: center;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+    
+
+    .description {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .infos {
+        display: flex;
+        flex-direction: column;
+        margin-right: 0px;
+        align-items: flex-start;
+        justify-content: center;
+        width: 495px;
+        height: 366px;
+        padding: 0px;
+        gap: 32px;
+    }
+
+    .buttons {
+        display: flex;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 12px;
+        align-items: center;
+        text-align: center;
+        flex: none;
+        width: 102px;
+        height: 38px;
+    
+        background: rgba(8, 30, 52, 0.12);
+        border-radius: 100px;
+        border: none;
+    }
+    
+    .content-texts {
+        font-family: 'Kanit';
+        margin: 0px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 70px;
+        line-height: 64px;
+        width: 495px;
+        height: 192px;
+        display: flex;    
+    }
+    
+    .textDescription {
+        height: 44px;
+        margin: 0px;
+        font-family: 'Inter';
+        font-style: normal;
+        width: 495px;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+    }
+
+    .howItWorksButton {
+        background-color: #712FFF;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 144px;
+        height: 50px;
+        border-radius: 100px;
+        border: none;
+        color: white;
+        padding: 16px 24px;
+        gap: 10px;
+    }
+
+    .bigPic {
+        display: flex;
+        border-radius: 32px;
+        height: 420px;
+        width: 619px;
+        justify-content: center;
+        background: #F1F1F1;
+    }
+
+    .description {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 100px 80px;
+        gap: 165px;
+        
+    }
+
+    .backgroundSecond {
+        display: flex;max-width: 1440px;
+        height: 562px;
+        background: #E1DEE7;
+        border-radius: 32px;
+        justify-content: center;
+        flex-direction: column;
+        gap: 86px;
+    }
+
+    .loremIpsum {
+        display: flex;font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        margin: 0px;
+        line-height: 16px;
+    }
+
+    .howItWorksText {
+        display: flex;width: 351px;
+        height: 56px;
+        margin: 0px;
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 54px;
+        line-height: 56px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        gap: 12px;
+        height: 84px;
+    }
+    
+    .frame18 {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 40px;
+        margin-left: 80px;
+        margin-right: 80px;
+        list-style-type: none;
+    }
+    
+    .imgNumber {
+        display: flex;
+        width: 35.13px;
+        height: 64px;
+    }
+    
+    .title {
+        display:flex;
+        margin-top: 48px;
+        margin-bottom: 24px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        width: 400px;
+    }
+    
+    .titleDescription {
+        display: flex;font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        width: 400px;
+    }
+
+    .backgroundThird {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 100px 80px;
+        gap: 128px;
+        width: 1440px;
+        height: 422px;
+    }
+
+    .letsGetStarted {
+        display: flex;font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 54px;
+        line-height: 64px;
+        margin: 0px
+    }
+
+    .theBestTool {
+        display: flex;font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        width: 470px;
+        height: 44px;
+        margin-top: 32px;
+        margin-bottom: 32px;
+    }
+
+    .searchJob {
+        display: flex; 
+        flex-direction: row; 
+        align-items: center; 
+    }
+
+    .searchBar {
+        display: flex;flex-direction: row;
+        width: 619px;
+        height: 50px;
+        align-items: center;
+        background: #FFFFFF;
+        border: 1px solid #E1DEE7;
+        border-radius: 12px;
+        margin-right: 32px
+    }
+
+    .searchImg {
+        display: flex;width: 24px;
+        height: 24px;
+        margin: 13px;
+    }
+
+    .searchText {
+        display: flex;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        color: #000000;
+        opacity: 0.2;
+    }
+
+    .findJob {
+        background-color: #712FFF;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 106px;
+        height: 50px;
+        border-radius: 100px;
+        border: none;
+        color: white;
+        padding: 16px 24px;
+    }
+
+    .cvSubmission {
+        display: flex; 
+        flex-direction: row; 
+        align-items: center; 
+        justify-content: space-around; 
+        width: 1440px;
+    }
+
+    .visualContent2 {
+        width: 619px;
+        height: 420px; 
+        margin-bottom: 64px;
+    }
+
+    .uploadCV {
+        display: flex;width: 400px;
+        height: 56px;
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 54px;
+        line-height: 56px;
+        margin: 0px;
+    }
+
+    .descriptionCV {
+        display: flex;width: 475px;
+        height: 44px;font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        margin-top: 32px;
+        margin-bottom: 32px
+    }
+
+    .uploadButton {
+        background-color: #712FFF;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 106px;
+        height: 50px;
+        border-radius: 100px;
+        border: none;
+        color: white;
+    }
+
+    .backgroundEnd {
+        display: flex;
+        width: 1440px;
+        height: 172px;
+        background: #FFFFFF;
+        border-radius: 32px 32px 0px 0px;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center
+    }
+
+    .footer {
+        display: flex; 
+        justify-content: space-between; 
+        align-items: center;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    .footerButton {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        height: 38px; 
+        border-radius: 100px;
+        border: none;
+        background-color: #FFFFFF;
+    }
+
+    .social {
+        display: flex; 
+        align-items:center;
+        flex-direction: row;
+    }
+
+    .socialLogo {
+        width: 24px;
+        height: 24px;
+    }
+
+    .credits {
+        display: flex;
+        align-items: center;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 803px;
+        height: 38px; 
+        border-radius: 100px;
+        border: none;
+        color: #081E34;
+        opacity: 0.5;
+        background-color: #FFFFFF; 
+    }
+
+    .nfactorial {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        gap: 8px;
+        margin-left: auto;
+        margin-right: 80px;
+        margin-top: 30px;
+        width: 272px;
+        border: none;
+        background-color: #FFFFFF
+    }
+}
+
+@font-face{
+    font-family: 'Kanit';
+    src: url('Kanit/Kanit-Medium.ttf');
+
+ }
+
+ @font-face {
+    font-family: 'Inter';
+    src: url('Kanit/Kanit-Light.ttf');
+
+ }
+
+
+
+ @media (max-width: 360px){
+    .tap {
+        background: #F1F1F1;
+        max-width: 360px
+    }
+    
+    .borders {
+        display: flex;
+        flex-direction: row; 
+        justify-content: space-around;
+    }
+
+    .loopJumys {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .item-magnifier {
+        display: flex;
+        width: 18.68px;
+        height: 22px;
+        margin-right: 10px;
+        /* margin-left: 80px; */
+        margin-top: 20px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+
+    .jumysTap {
+        display: flex;
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .threeButtons {
+        display: flex; 
+        flex-direction: row; 
+        margin-left: 720px;
+        display: none;
+    }
+
+    .list-item {
+        display: flex;
+        font-family: 'Inter';
+        list-style-type: none;
+        margin-right: 40px;
+        margin-top: 2px;
+        align-items: center;
+        text-align: center;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+
+    .infos {
+        display: flex;
+        flex-direction: column;
+        margin-right: 0px;
+        justify-content: center;
+        align-items: center;
+        text-align: center; 
+        width: 495px;
+        height: 366px;
+        padding: 0px;
+        gap: 32px;
+    }
+
+    .buttons {
+        display: flex;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 12px;
+        align-items: center;
+        text-align: center;
+        flex: none;
+        width: 102px;
+        height: 38px;
+    
+        background: rgba(8, 30, 52, 0.12);
+        border-radius: 100px;
+        border: none;
+    }
+    
+    .description {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center; 
+        
+    }
+
+    .content-texts {
+        font-family: 'Kanit';
+        margin: 0px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 120%;
+        width: 312px;
+        display: flex;
+        
+    }
+    
+    .textDescription {
+        height: 54px;
+        margin: 0px;
+        font-family: 'Inter';
+        font-style: normal;
+        width: 312px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .howItWorksButton {
+        background-color: #712FFF;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 144px;
+        height: 50px;
+        border-radius: 100px;
+        border: none;
+        color: white;
+        padding: 16px 24px;
+        gap: 10px;
+    }
+
+    .bigPic {
+        margin-top: 40px;
+        display: flex;
+        border-radius: 32px;
+        height: 210px;
+        width: 312px;
+        justify-content: center;
+        background: #F1F1F1;
+        
+    }
+
+    .backgroundSecond {
+        display: flex;
+        height: auto;
+        background: #E1DEE7;
+        border-radius: 32px;
+        flex-direction: column;
+        gap: 40px;
+        padding: 54px 24px;
+    }
+
+    .loremIpsum {
+        display: flex;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        margin: 0px;
+        line-height: 16px;
+    }
+
+    .howItWorksText {
+        display: flex;
+        height: 56px;
+        margin: 0px;
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 56px;
+        display: flex;
+        
+    }
+
+    .text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        height: 84px;
+    }
+    
+    .frame18 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 40px;
+        list-style-type: none;
+    }
+    
+    .imgNumber {
+        display: flex;
+        height: 42px;
+    }
+    
+    .title {
+        display:flex;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    
+    .titleDescription {
+        display: flex;
+        font-family: 'Inter';
+        font-style: normal;
+        margin: 0px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .backgroundThird {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 128px;
+    }
+
+    .thirdInfo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0px;
+    }
+
+    .letsGetStarted {
+        display: flex;font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 64px;
+        margin: 0px
+    }
+
+    .theBestTool {
+        display: flex;font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        width: 320px;
+    }
+
+    .searchJob {
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .searchBar {
+        display: flex;
+        flex-direction: row;
+        width: 320px;
+        height: 50px;
+        align-items: center;
+        background: #FFFFFF;
+        border: 1px solid #E1DEE7;
+        border-radius: 12px;
+        margin-right: 32px;
+        margin-left: 20px;
+    }
+
+    .searchImg {
+        display: flex;
+        width: 24px;
+        height: 24px;
+        margin: 13px;
+    }
+
+    .searchText {
+        display: flex;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        color: #000000;
+        opacity: 0.2;
+    }
+
+    .findJob {
+        background-color: #712FFF;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 106px;
+        height: 50px;
+        border-radius: 100px;
+        border: none;
+        color: white;
+        padding: 16px 24px;
+    }
+
+    .cvSubmission {
+        display: flex; 
+        flex-direction: column; 
+        justify-content: space-around; 
+        align-items: center;
+        height: 663px;
+    }
+
+    .visualContent2 {
+        width: 312px;
+        height: 210px; 
+    }
+
+    .uploadCV {
+        display: flex;
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 56px;
+        margin: 0px;
+    }
+
+    .descriptionCV {
+        display: flex;
+        width: 312px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 20px;
+        margin-bottom: 32px
+        
+    }
+
+    .uploadButton {
+        background-color: #712FFF;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        width: 106px;
+        height: 50px;
+        border-radius: 100px;
+        border: none;
+        color: white;
+        
+    }
+
+    .backgroundEnd {
+        display: flex;
+        background: #FFFFFF;
+        border-radius: 32px 32px 0px 0px;
+        flex-direction: column;
+        align-content: center;
+        height: 440px;
+    }
+
+    .footer {
+        display: flex; 
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 16px;
+    }
+
+    .footerButton {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        height: 38px; 
+        border-radius: 100px;
+        border: none;
+        background-color: #FFFFFF;
+    }
+
+    .social {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 24px;
+        gap: 16px;
+    }
+    
+    .socialLogo {
+        width: 24px;
+        height: 24px;
+    }
+
+    .credits {
+        display: inline;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        width: 312px;
+        height: 72px; 
+        border-radius: 100px;
+        border: none;
+        color: #081E34;
+        opacity: 0.5;
+        background-color: #FFFFFF;
+    }
+
+    .nfactorial {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        gap: 8px;
+        margin-left: auto;
+        margin-right: 80px;
+        margin-top: 30px;
+        width: 272px;
+        border: none;
+        background-color: #FFFFFF
+    }
+ }
